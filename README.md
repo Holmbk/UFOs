@@ -6,7 +6,7 @@ The webpage and synamic table of initial study are working as intended.  The cus
 
 ## Results
 HTML and JavaScript was used to create table filters that filter on date, city, state, country and shape.
-![search_image](https://user-images.githubusercontent.com/98991575/170152957-d5118935-77d2-4d9e-89d1-be15113298f1.png)
+![search_image](https://user-images.githubusercontent.com/98991575/170153523-69241c8f-a3a4-4ad1-aeab-a575aec607cc.png)
 This image is of the date being entered as 1/1/2010 and the webpage was updated with the search criteria after pressing "Enter".  It helps to include the state when searching a city.  
 
 ## Summary
